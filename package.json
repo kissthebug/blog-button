@@ -1,6 +1,6 @@
 {
   "name": "@kissthebug/blog-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tiny typed React button component.",
   "keywords": [
     "react",
@@ -9,7 +9,15 @@
     "component",
     "library"
   ],
-  "author": "You",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kissthebug/blog-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kissthebug/blog-button/issues"
+  },
+  "homepage": "https://github.com/kissthebug/blog-button#readme",
+  "author": "kissthebug <108880176+kissthebug@users.noreply.github.com>",
   "license": "MIT",
   "sideEffects": false,
   "files": [
