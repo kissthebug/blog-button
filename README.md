@@ -1,5 +1,8 @@
 # @kissthebug/blog-button
 
+[![NPM](https://img.shields.io/npm/v/@kissthebug/blog-button.svg?logo=npm)](https://www.npmjs.com/package/@kissthebug/blog-button)
+[![Downloads](https://img.shields.io/npm/dt/@kissthebug/blog-button.svg)](https://www.npmjs.com/package/@kissthebug/blog-button)
+
 A tiny, typed React button component built with TypeScript. Ships both ESM and CJS, works with React 18/19, and supports styling via utility classes (e.g., Tailwind).
 
 ## ✨ Features
